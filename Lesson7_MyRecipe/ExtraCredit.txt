@@ -1,0 +1,6 @@
+1.Perform at least one DOM traversal
+    - I utilized the children() method to display the elements matched by the unorderedlist element. 
+ Perform at least one CSS change
+    - I changed the image of the brownies to fit the subject of my recipe.
+ Perform at least one animation/event
+    - I utilized the toggle function as well as fade in. 

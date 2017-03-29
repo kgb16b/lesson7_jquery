@@ -4,19 +4,17 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+March 29, 2017
 
 ### Student Name:  
-(First and Last Name)
+Kaelen Birkholz
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
-
+Development of an application to display a recipe using jQuery.
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://kgb16b.github.io/lesson7_jquery/Lesson7_Assignment/ 
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. jQuery is used to utilize JavaScript with minimal coding. 
+2. Many jQuery methods both look up a value and set the value. 
+3. jQuery code follows the rules of JavaScript that can make shortcuts look like another language. 
